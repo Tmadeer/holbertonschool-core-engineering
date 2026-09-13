@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 language = "Python"
 version = 3
 pi_value = 3.14159
