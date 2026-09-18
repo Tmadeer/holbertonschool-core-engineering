@@ -1,5 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 def pow(a, b):
+    """Computes and returns the value of a raised to the power of b."""
     result = 1
     exponent = abs(b)
 
