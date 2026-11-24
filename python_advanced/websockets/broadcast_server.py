@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Broadcast WebSocket server distributing messages to all connected clients."""
+"""Broadcast WebSocket server for connected clients."""
 
 import asyncio
 import websockets
